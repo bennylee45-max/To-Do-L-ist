@@ -12,15 +12,23 @@ body{
 }
 
 button{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
     background-color: white;
    color: red;
    border-radius: 20px;
+}
+h1{
+    font-size: 75px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
 form{
     padding-bottom: 20px;
 }
 
-ul task-list{
-    
+h1{
+  padding-bottom: 50px;  
 }
